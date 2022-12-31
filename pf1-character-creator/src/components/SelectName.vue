@@ -2,8 +2,8 @@
 	<div id="select-name" class="main-col-content">
 		<div class="content">
 			<h2 class="section-header">Приветствую!</h2>
-			<p>From the sly rogue to the stalwart paladin, Pathfinder allows you to make the character you want to play. When generating a character, start with your character's concept. Do you want a character who goes toe-to-toe with terrible monsters, matching sword and shield against claws and fangs? Or do you want a mystical seer who draws his powers from the great beyond to further his own ends? Nearly anything is possible.</p><p>
-			Once you have a general concept worked out, this web app can help bring your idea to life.</p>
+			<p>От хитрого мошенника до стойкого паладина, Pathfinder позволяет вам создать персонажа, которым вы хотите играть. При создании персонажа начните с концепции вашего персонажа. Вы хотите персонажа, который идет лицом к лицу с ужасными монстрами,
+подходящие меч и щит против когтей и клыков? Или вам нужен мистический провидец, который черпает свои силы из запредельного для достижения своих целей? Почти все возможно</p>
 			
 		</div>
 		<div class="content box-shadow text-center">
