@@ -3,7 +3,7 @@
     <div id="select-abilities" class="main-col-content">
         <div class="content">
             <h2 class="section-header">Which class do you favor?</h2>
-            <p>{{name}}'s class is one of {{pronouns.their}} most defining features. It's the source of most of {{pronouns.their}} abilities and gives {{pronouns.them}} a specific role in any adventuring party.</p>
+            <p>{{name}}'s class is one of {{pronouns.their}} most defining features. Здесь должен быть текст {{pronouns.their}} abilities and gives {{pronouns.them}} a specific role in any adventuring party.</p>
         </div>
         <div class="content box-shadow text-center">
             <h4 class="ntm">Select a class.</h4>
